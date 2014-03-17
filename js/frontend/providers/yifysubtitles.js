@@ -8,6 +8,7 @@ var request = require('request'),
     baseUrl = 'http://www.yifysubtitles.com',
 
     Languages = window.Languages = {
+        'arabic'    : 'عربي',
         'spanish'   : 'Español',
         'english'   : 'English',
         'french'    : 'Français',

@@ -13,6 +13,7 @@ var xmlrpc = require('xmlrpc'),
     }),
     
     Languages = window.Languages = {
+        'ara': 'Arabic',
         'spa': 'Spanish',
         'eng': 'English',
         'pob': 'Portuguese(Brazil)',

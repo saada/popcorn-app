@@ -87,6 +87,7 @@ var playTorrent = window.playTorrent = function (torrent, subs, movieModel, call
 // Supported Languages for Subtitles
 
 window.SubtitleLanguages = {
+  'arabic'    : 'عربي',
   'spanish'   : 'Español',
   'english'   : 'English',
   'french'    : 'Français',

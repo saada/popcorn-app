@@ -118,6 +118,7 @@ App.View.Sidebar = Backbone.View.extend({
         var userLocale = window.navigator.language.substr(0,2);
         var availableSubs = this.model.get('subtitles');
         var languageLookup = {
+          "arabic": "ar",
           "brazilian": "pt",
           "dutch": "nl",
           "english": "en",

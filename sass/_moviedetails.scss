@@ -413,6 +413,7 @@ sidebar {
               }
 
               .flag {
+                &.flag-arabic { background-image: url(../images/arabic.png); }
                 &.flag-english { background-image: url(../images/english.png); }
                 &.flag-french { background-image: url(../images/french.png); }
                 &.flag-dutch { background-image: url(../images/dutch.png); }
